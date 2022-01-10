@@ -1,6 +1,6 @@
 # Русскоязычные телеграм чаты по всему миру
 
-![russian chats list](./russian-chats-list.jpg)
+![russian chats list](https://raw.githubusercontent.com/pcherednichenko/russian-chats-list/main/russian-chats-list.jpg)
 
 Здесь вы можете найти список русскоязычных телеграм чатов по всем странам мира и по городам
 
