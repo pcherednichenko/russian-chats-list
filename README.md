@@ -198,7 +198,9 @@
     - Крайот:
         - [Хайфа & Крайот](https://telegram.me/HaifaChat)
 - Индия
+    - [🇮🇳 ИНДИЯ Гоа | чат - форум](https://t.me/forum_india)
 - Индонезия
+    - [🇮🇩 ИНДОНЕЗИЯ | чат - форум](https://t.me/forum_indonesia)
 - Иордания
 - Ирак
 - Иран
