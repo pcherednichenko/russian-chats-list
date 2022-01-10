@@ -118,6 +118,8 @@
     Города:
     - Берлин:
         - [Berlin Берлин](https://telegram.me/berlinru)
+    - Дюссельдорф:
+        - [NRW, Дюссельдорф😈🔞](https://t.me/joinchat/BgCu5EMkm_etG5dts42kCA)
     - Мюнхен:
         - [Чат серьезных экспатов Мюнхена](https://t.me/muenchentraktor)
     - Штуттгарт:      
@@ -149,11 +151,11 @@
         - [БАТУМИ | чат - форум](https://t.me/batumi_group)
     - Гудаури:
         - [ГУДАУРИ | чат - форум](https://t.me/gudauri_forum)
+    - Кутаиси:
+        - [КУТАИСИ 🇬🇪 ЧАТ](https://t.me/kutaisi_chat)
     - Тбилиси:
         - [ТБИЛИСИ 🇬🇪 ЧАТ](https://t.me/mytbilisi_chat)
         - [ТБИЛИСИ | чат - форум](https://t.me/tbilisi_group)
-    - Кутаиси:
-        - [КУТАИСИ 🇬🇪 ЧАТ](https://t.me/kutaisi_chat)
 - Дания
     - [🇩🇰 ДАНИЯ | чат - форум](https://t.me/daniya_chat)
 
@@ -178,6 +180,23 @@
 - Замбия
 - Зимбабве
 - Израиль
+    - [🇮🇱 ИЗРАИЛЬ | чат - форум](https://t.me/forum_israel)
+    - [🇮🇱 Новый Репатриант 🇮🇱 Репатриация в Израиль](https://t.me/OlimHadashim)
+    - [olehadash.com | чат](https://t.me/olehadash_com_chat)
+    - [Репатриация, шоб я так жил](https://t.me/mazltov)
+    - [TR ++](https://t.me/TelRan)
+    - [Ой-Вей! 🇮🇱❤️ אוֹי וֵיי](https://t.me/OhVey)  
+    - [Еврейский Израиль](https://t.me/israelru)
+    
+    Города:
+    - Тель-Авив:
+        - [ТЕЛЬ-АВИВ | чат - форум](https://t.me/telaviv_forum)
+        - [Гуш-Дан | Тель-Авив](https://telegram.me/TelAvivChat)
+    - Хайфа:
+        - [Хайфа & Крайот](https://telegram.me/HaifaChat)
+        - [ХАЙФА | чат - форум](https://t.me/haifa_forum)
+    - Крайот:
+        - [Хайфа & Крайот](https://telegram.me/HaifaChat)
 - Индия
 - Индонезия
 - Иордания
