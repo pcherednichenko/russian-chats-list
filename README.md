@@ -11,10 +11,12 @@
 [https://github.com/pcherednichenko/russian-chats-list](https://github.com/pcherednichenko/russian-chats-list)
 
 Ссылка на список чатов на сайте:
-[https://blogpavel.com/2022/01/10/russian-chats-list/](https://blogpavel.com/2022/01/10/russian-chats-list/)
+[https://blogpavel.com/russian-chats-list](https://blogpavel.com/russian-chats-list)
 
 Для того чтобы попасть в этот список ваш чат должен быть активным и иметь участников.
 Чаты сортируются по убыванию количества участников в них
+
+## Список чатов
 
 - Австралия
     - [🇦🇺 АВСТРАЛИЯ | чат - форум](https://t.me/forum_australia)
