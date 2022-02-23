@@ -80,6 +80,7 @@
 - Великобритания Англия
     - [🇬🇧 АНГЛИЯ | чат - форум](https://t.me/forum_england)
     - [Great Britain: Tea Break](https://t.me/ukemigration)
+    - [Русская Англия](https://t.me/rusengland)
 
     Части:
     - Лондон:
