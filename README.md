@@ -231,6 +231,8 @@
         - [ИБИЦА | чат - форум](https://t.me/ibica_ispania)
     - Канары:
         - [КАНАРЫ | Тенерифе - чат форум](https://t.me/kanaru_tenerife)
+    - Сарагоса:
+        - [Сарагоса сейчас | Новости города](https://t.me/zaragoza_ru_cp)
 - Италия
     - [ЧАТ Вместе в Италии](https://t.me/vmestevitalii)
     - [🇮🇹 ИТАЛИЯ | чат - форум](https://t.me/forum_italy)
@@ -293,6 +295,10 @@
     - [Услуги и объявления на Кипре](https://t.me/cyprus_uslugi)
     - [Кипр недвижимость | Аренда](https://t.me/cyprus_nedvizhimost)
     - [Кипр женский Чат](https://t.me/cyprus_women_chat)
+
+    Части:
+    - Лимасол:
+        - [Лимасол сейчас | Новости города](https://t.me/limassol_ru_cp)
 - Киргизия
     - [🇰🇬 КИРГИЗИЯ | чат - форум](https://t.me/kirgizia_forum)
 - Кирибати
